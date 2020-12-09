@@ -43,7 +43,7 @@
     "pkginfo": "^0.4.0",
     "request": "^2.88.0",
     "semver": "^5.1.0",
-    "unix-crypt-td-js": "^1.0.0",
+    "unix-crypt-td-js": "^1.1.4",
     "snyk": "^1.434.3"
   },
   "devDependencies": {

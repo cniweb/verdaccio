@@ -8166,7 +8166,7 @@ snyk-try-require@1.3.1, snyk-try-require@^1.1.1, snyk-try-require@^1.3.1:
     lru-cache "^4.0.0"
     then-fs "^2.0.0"
 
-snyk@1.434.3, snyk@^1.434.3:
+snyk@^1.434.3:
   version "1.434.3"
   resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.434.3.tgz#580123423c9fcde9d7f5739af237e03d2cd7e5f0"
   integrity sha512-wtNHugLnbwZxGR502RRQt10AbXizLkBQL715JB6jqu6O9wMvsa8WnRp3pb9GhYWSMX3ibt956fkbPGAQ5nNNSg==
@@ -9101,9 +9101,10 @@ unique-string@^2.0.0:
   dependencies:
     crypto-random-string "^2.0.0"
 
-unix-crypt-td-js@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/unix-crypt-td-js/-/unix-crypt-td-js-1.0.0.tgz#1c0824150481bc7a01d49e98f1ec668d82412f3b"
+unix-crypt-td-js@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/unix-crypt-td-js/-/unix-crypt-td-js-1.1.4.tgz#4912dfad1c8aeb7d20fa0a39e4c31918c1d5d5dd"
+  integrity sha512-8rMeVYWSIyccIJscb9NdCfZKSRBKYTeVnwmiRYT2ulE3qd1RaDQ0xQDP+rI3ccIWbhu/zuo5cgN8z73belNZgw==
 
 unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
