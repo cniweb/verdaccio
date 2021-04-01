@@ -44,7 +44,7 @@
     "request": "^2.88.0",
     "semver": "^5.7.1",
     "unix-crypt-td-js": "^1.0.0",
-    "snyk": "^1.434.3"
+    "snyk": "^1.518.0"
   },
   "devDependencies": {
     "axios": "0.16.2",
